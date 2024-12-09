@@ -1,0 +1,49 @@
+*{
+    text-decoration: none;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.container{
+    display: grid;
+    place-items: center;
+}
+.search{
+    width: 80%;
+    text-align: center;
+    background-color: rgb(218, 217, 217);
+}
+
+.search input{
+    width: 20rem;
+}
+
+.footer{
+    width: 80%;
+    margin-top: .2rem;
+    display: flex;
+    column-gap: .2rem;
+}
+
+.box{
+    background: rgb(31, 162, 151);
+    width: 25%;
+    height: 100px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.box:last-child{
+    width: 50%;
+}
+
+.subscribe input{
+    width: 12rem;
+}
+
+.container #copy{
+    margin-top: 1rem;
+}
