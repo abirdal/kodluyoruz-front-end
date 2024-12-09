@@ -2,6 +2,6 @@
 
 > Aşağıdaki görselde görebileceğiniz çıktıyı html ve css kullanarak tasarlamaya çalıştım.
 
-![Image](img/ss-screen.png)
+![Image](img/ss.png)
 
 **Okuduğunuz için teşekkür ederim.**
